@@ -1,5 +1,3 @@
-import kotlin.random.Random
-
 fun sieveOfEratosthenes(n: Int): List<Int> { //ChatGPT
     // Создаем массив, где начальное значение true указывает, что число является простым
     val isPrime = BooleanArray(n + 1) { true }
