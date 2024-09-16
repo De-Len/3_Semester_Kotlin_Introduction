@@ -1,6 +1,5 @@
 import kotlin.math.PI
 import kotlin.math.sqrt
-import kotlin.random.Random
 
 interface Figure {
     fun area(): Double
