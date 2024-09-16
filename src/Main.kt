@@ -1,4 +1,3 @@
-import com.sun.org.apache.xalan.internal.xsltc.compiler.util.Type.Int
 import kotlin.random.Random
 
 class NumberArray (private val numbers : Array<Int>) {
